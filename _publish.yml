@@ -1,0 +1,5 @@
+- source: project
+  netlify:
+    - id: 84324f38-62d2-44c5-9d3f-99e6512081cb
+      #url: 'https://rad-begonia-223606.netlify.app'
+      url: 'slides.cgoodman.com'
