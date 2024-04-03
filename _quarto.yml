@@ -26,6 +26,8 @@ website:
   open-graph:
     locale: en_US
 
+  google-analytics: "G-LEM7C9DZ9K"
+
   page-footer: 
     left: |
       <span class="faux-block"> {{< iconify fa6-brands creative-commons title='Creative Commons' >}} {{< var years >}} Christopher B. Goodman</span>
