@@ -1,0 +1,30 @@
+```{=html}
+
+<div class="presentation">
+    <% for (const presentation of items) { %>
+    <div class="presentation-entry">
+        <div class="body">
+            <p class="date"><%= presentation.date %></p>
+            <p class="title"><%= presentation.title %></p>
+            <p class="description"><%= presentation.description %> | <%= presentation.location %></p>
+
+            <% if (presentation.links) { %>
+            <ul class="presentation-links">
+                <% for (const link of presentation.links) { %>
+                <li class="presentation-link">
+                    <% if (link.local) { %>
+                    <a href="<%- talk.path.substring(0, talk.path.lastIndexOf('/')) %>/<%- link.url %>">
+                    <% } else { %>
+                    <a href="<%- link.url %>">
+                    <% } %>
+                        <i class="<%- link.icon %>"></i> <%= link.name %>
+                    </a>
+                </li>
+                <% } %>
+            <% } %>
+            </ul>
+        </div>
+    </div>
+    <% } %>
+</div>
+```

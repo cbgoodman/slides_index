@@ -1,0 +1,18 @@
+---
+title: "Overlapping Jurisdictions & Residential Segregation by Race"
+subtitle: "Urban Affairs Association Conference"
+date: 2023-04-28
+abstract: >-
+  Anecdotal and empirical evidence suggests a link between municipal fragmentation and residential segregation between jurisdictions by race. As Tiebout (1956) suggested, a preponderance of local jurisdictions incentivizes individuals or households to “vote with their feet” and sort into communities that most closely satisfy their preferences. Also implied by Tiebout and increasingly becoming the dominant narrative, high-income and racially homogenous jurisdictions use land use regulations to lock in existing (segregated) patterns of human settlement. However, few municipalities are created in the United States. Significantly more overlapping local governments are created that can equally and perhaps more efficiently segregate local public services across space.  
+
+  This manuscript examines the role of special districts in residential segregation within and across jurisdictions. Using both urban county and MSA-level data from the U.S. Census, an empirical model is specified with particular attention paid to the potential endogeneity between patterns of residential segregation and local government fragmentation. Local government fragmentation is instrumented by geographic factors unrelated to segregation – rivers in the county/MSA and the average slope of the county/MSA. This manuscript intends to shed light on the potential outcomes of a relatively hidden yet important form of local government and its role in potentially perpetuating an unequal metropolis.
+---
+
+## Slides
+
+<p class="text-center"><a class="btn btn-info btn-lg" target="_blank" href="https://cbgoodman.github.io/uaa2023-presentation/goodman-uaa-2023.html">{{< fa arrow-up-right-from-square >}} &ensp;View all slides in new window</a> <a class="btn btn-info btn-lg" target="_blank" href="https://github.com/cbgoodman/uaa2023-presentation/blob/main/goodman-uaa-2023.pdf" role="button">{{< fa file-pdf >}} &ensp;Download PDF of all slides</a></p>
+
+
+<div class="ratio ratio-16x9">
+<iframe class="slide-deck" src="https://cbgoodman.github.io/uaa2023-presentation/goodman-uaa-2023.html"></iframe>
+</div>

@@ -1,0 +1,13 @@
+page-navigation: true
+#page-layout: full
+toc: false
+
+# Default author
+author:
+  - name: Christopher B. Goodman
+    url: https://www.cgoodman.com
+    orcid: 0000-0002-8565-9714
+
+# Format title block
+title-block-style: default
+published-title: "Presentation Date"

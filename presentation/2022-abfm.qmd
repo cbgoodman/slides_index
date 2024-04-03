@@ -1,0 +1,7 @@
+---
+title: "Revisiting Jurisdictional Overlap, Tax and Expenditure Limitations, and the Fiscal Commons"
+subtitle: "Association for Budgeting & Financial Management Conference"
+date: 2022-09-23
+abstract: >-
+  This study examines the interaction effect between tax and expenditure limitations (TELs) and jurisdictional overlap on per capita own source revenues for US county areas. Previous literature suggests that vertical stacking of local government creates the conditions for a fiscal commons issue. An important wrinkle in this is the potential for this relationship to be driven by TELs. If local governments are using special districts as a mechanism to circumvent TELs (who are often not subject to the limitations), this potential relationship between jurisdictional overlap and own source revenues may be spurious. This potential relationship is examined using Census of Governments data from 1972 to 2017 at the county area level. An empirical model is built examining per capita own source revenues from all local governments as a function jurisdictional overlap, potentially binding TELs, and the interaction of the two. I use a border discontinuity design to isolate differences in TELs along state borders using such borders as plausibly random in space and allowing for a causal interpretation. The results shed light on the complex relationship between vertical overlap, local revenue raising, and the efficacy (or lack thereof) of state fiscal restrictions.
+---

@@ -1,0 +1,82 @@
+---
+title: "Repository of Presentations"
+subtitle: "This is a repository of my presentations (slides and code included!)."
+details: >-
+  <center><a href="https://www.cgoodman.com"  class="btn btn-danger" target="_blank" rel="noopener noreferrer">Go to main website</a></center>
+sidebar: false
+toc: false
+page-layout: full
+format:
+  html:
+    template-partials:
+      - html/home/title-block.html
+listing:
+  id: highlights
+  contents: highlights.yml
+  template: /html/home/gallery.ejs
+---
+
+:::: {.grid .home-details}
+::::
+### Highlights
+::: {#highlights}
+:::
+
+```{=html}
+<style>
+
+#hero-banner {
+  padding-top: 35px;
+  background-color: rgb(237,243,249);
+}
+
+#quarto-content main { 
+  margin-top: 0;
+  padding-top: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.headline {
+  font-size: 1.25em;
+  font-weight: 300;
+  padding-bottom: 1em;
+}
+
+.headline p {
+  margin: 0;
+  padding-bottom: 0.2rem;
+}
+
+.headline a {
+  text-decoration: none;
+}
+
+.headline ul li {
+  margin-bottom: 0.3em;
+}
+
+.carousel.card {
+  padding-top: 2em;
+}
+
+.carousel img {
+  width: 70%;
+  margin-bottom: 110px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  margin-bottom: 110px;
+}
+
+.carousel-caption {
+  padding-top: 1em;
+}
+
+.touch {
+  
+}
+</style>
+```

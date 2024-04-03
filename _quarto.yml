@@ -1,0 +1,77 @@
+project:
+  type: website
+  
+  # Preview settings
+  preview:
+    port: 4444
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+freeze: true
+
+# Main website stuff
+website:
+  title: "Christopher B. Goodman"
+  description: "Christopher B Goodman is an associate professor at Northern Illinois University, researching special districts & preemption and teaching public finance."
+  favicon: "files/favicon.ico"
+  site-url: https://slides.cgoodman.com
+  repo-url: https://github.com/cbgoodman/slides_index
+  page-navigation: true
+ 
+  twitter-card:
+    creator: "@cbgoodman"
+    site: "@cbgoodman"
+  
+  open-graph:
+    locale: en_US
+
+  page-footer: 
+    left: |
+      <span class="faux-block"> {{< iconify fa6-brands creative-commons title='Creative Commons' >}} {{< var years >}} Christopher B. Goodman</span>
+      <span class="faux-block">All content licensed under<br>[ {{< iconify fa6-brands creative-commons title='Creative Commons' >}} {{< iconify fa6-brands creative-commons-by title='Creative Commons BY' >}} {{< iconify fa6-brands creative-commons-sa title='Creative Commons SA' >}} Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</span>      
+    center: |
+      <span class="faux-block"> {{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}}){{< ai blank-just-to-add-ai-dependency-to-this-page >}}</span>
+    right: |
+      <span class="faux-block">Made with [Quarto](https://quarto.org/)</span>
+      <span class="faux-block">[View the source at {{< iconify bi github size=1.1em title='GitHub' >}} GitHub]({{< var github-url >}})</span>
+  
+  navbar:
+    background: "#ffffff"
+    align: center
+    collapse-below: lg
+
+    right: 
+      - text: "{{< iconify simple-icons x size=1.1em title='X' >}}"
+        href: https://twitter.com/cbgoodman
+        rel: me
+      - text: "{{< iconify simple-icons mastodon size=1.1em title='Mastodon' >}}"
+        href: https://sciences.social/@cbgoodman
+        rel: me
+      - text: "{{< iconify simple-icons bluesky size=1.1em title='Bluesky' >}}"
+        href: https://bsky.app/profile/cbgoodman.bsky.social
+        rel: me
+      - text: "{{< iconify simple-icons github size=1.1em title='GitHub' >}}"
+        href: https://www.github.com/cbgoodman
+        rel: me
+      - text: "{{< iconify simple-icons linkedin size=1.1em title='LinkedIn' >}}"
+        href: https://www.linkedin.com/in/cbgoodman/
+        rel: me
+    left:
+      - href: presentation/index.qmd
+        text: "Presentations"
+        
+      
+
+format:
+  html:
+    theme: 
+      light:
+        #- cosmo
+        - html/style.scss
+      dark:
+        - html/style-dark.scss
+    highlight-style: github
+    code-overflow: wrap
+    code-block-bg: false
+    toc: true

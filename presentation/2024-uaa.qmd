@@ -1,0 +1,7 @@
+---
+title: "Are Conservative Cities Smaller in Functional Breadth?"
+subtitle: "Urban Affairs Association Conference"
+date: 2024-04-25
+abstract: >-
+  One expects the politics of a locality to be reflected in the way the locality is governed. Scholars are interested in whether conservative localities enact policies that make their municipal government smaller in fiscal footprint. That is, consistent with their small government rhetoric, are municipalities in conservative areas smaller than municipalities in liberal places? Prior research suggests yes—more conservative cities tend to spend less on average. However, this research fails to account for the assignment of functional responsibilities to local governments. I attempt to solve this problem by using various measures of functional breadth. Functional breadth considers whether a government provides a service and assigns a weight equivalent to the average per capita spending in the sample. The measure accounts for the services provided and is free of bias between city-specific spending and a place’s ideology. The results speak to the government’s responsiveness to an area’s political whims.
+---

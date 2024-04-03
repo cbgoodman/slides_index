@@ -1,0 +1,37 @@
+---
+pagetitle: "Presentations"
+author: ""
+listing:
+  - id: presentations_2024
+    contents: presentations_2024.yml
+    sort: "date desc"
+    template: ../html/presentation/listing.ejs
+  - id: presentations_2023
+    contents: presentations_2023.yml
+    sort: "date desc"
+    template: ../html/presentation/listing.ejs
+  - id: presentations_2022
+    contents: presentations_2022.yml
+    sort: "date desc"
+    template: ../html/presentation/listing.ejs
+page-layout: full
+toc: true
+toc-location: right
+toc-title: Year
+date-format: "MMMM D, YYYY"
+---
+
+## 2024
+
+:::{#presentations_2024}
+:::
+
+## 2023
+
+:::{#presentations_2023}
+:::
+
+## 2022
+
+:::{#presentations_2022}
+:::

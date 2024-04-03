@@ -1,0 +1,36 @@
+- title: "Revisiting Jurisdictional Overlap, Tax and Expenditure Limitations, and the Fiscal Commons"
+  date: 2022-09-23
+  description: >-
+    Presentation at the <a href="https://www.abfm.org/">Association for Budgeting & Financial Management Conference</a>, September 2022.
+  location: Miami, FL
+  links:
+  - name: Companion site, slides, and materials
+    url: 2022-abfm.qmd
+    icon: fa-solid fa-chalkboard-user
+  #- name: GitHub repository
+  #  url: https://github.com/cbgoodman/abfm-2023-10-28
+  #  icon: fa-brands fa-github
+- title: "State Preemption and Affordable Housing"
+  date: 2022-04-19
+  description: >-
+    Presentation at the <a href="https://www.urbanaffairsassociation.org/">Urban Affairs Assocation Conference</a>, April 2022.
+  location: Washington, DC
+  links:
+  - name: Companion site, slides, and materials
+    url: 2022-uaa.qmd
+    icon: fa-solid fa-chalkboard-user
+  #- name: GitHub repository
+  #  url: https://github.com/cbgoodman/abfm-2023-10-28
+  #  icon: fa-brands fa-github
+- title: "Creative Destruction? Examining Special District Dissolution by Service Area"
+  date: 2022-01-15
+  description: >-
+    Presentation at the <a href="https://www.urbanaffairsassociation.org/">Southern Political Science Association Conference</a>, January 2022.
+  location: San Antonio, TX
+  links:
+  - name: Companion site, slides, and materials
+    url: 2022-spsa.qmd
+    icon: fa-solid fa-chalkboard-user
+  #- name: GitHub repository
+  #  url: https://github.com/cbgoodman/abfm-2023-10-28
+  #  icon: fa-brands fa-github

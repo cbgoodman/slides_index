@@ -1,0 +1,14 @@
+---
+title: "State Preemption and Affordable Housing"
+subtitle: "Urban Affairs Association Conference"
+author:
+  - name: Christopher B. Goodman
+    url: https://www.cgoodman.com
+    orcid: 0000-0002-8565-9714
+  - name: Megan E. Hatch
+    url: https://facultyprofile.csuohio.edu/csufacultyprofile/detail.cfm?FacultyID=m_e_hatch
+    orcid: 0000-0001-5201-4066
+date: 2022-04-19
+abstract: >-
+  While there are federal housing programs such as the Housing Choice Voucher Program and the Low Income Housing Tax Credit (LIHTC), many affordable housing policies are the domain of local governments. While subnational housing policies can be used to increase racial and economic segregation, they can also protect renters, and thus are not without controversy. Local affordable housing policies include inclusive zoning, rent control, short term rental regulation, and source of income anti-discrimination. Often, although not exclusively, it is larger, more politically liberal cities that adopt these affordable housing policies. However, starting in the 1980s, states began to preempt these local laws, preventing their cities from adopting affordable housing policies. The number of affordable housing policy preemptions follow a temporal and geographic configuration that suggests preemption may follow diffusion patterns typical of policy adoption. We ask why states choose to preempt one or more of these four affordable housing policies. Using an event history model, we find evidence that affordable housing preemption follows a diffusion model. Preliminary results suggest more conservative legislatures, urban populations, and non-white residents increase the likelihood of preemption, while higher housing prices and more renters decreases the likelihood of preemption. Contrary to expectations, interest group density is not a significant predictor of preemption. For advocates and policymakers concerned with increasing affordable housing in their jurisdictions, these results raise unease about the ability to further an affordable housing agenda at the local level, particularly in more conservative political environments. In an era of rising state preemptions, these policies may be of limited success if enacted at a local government level, and instead affordable housing may need to return to the purview of the federal government.
+---
