@@ -10,3 +10,15 @@
   #- name: GitHub repository
   #  url: https://github.com/cbgoodman/abfm-2023-10-28
   #  icon: fa-brands fa-github
+- title: "Fragmentation in Local & State Policymaking"
+  date: 2024-04-11
+  description: >-
+    Lu Lecture at the <a href="https://truman.missouri.edu">Truman School, University of Missouri</a>, April 2024.
+  location: Columbia, MO
+  links:
+  - name: Companion site, slides, and materials
+    url: 2024-mizzou.qmd
+    icon: fa-solid fa-chalkboard-user
+  - name: GitHub repository
+    url: https://github.com/cbgoodman/2024-04-11-mizzou
+    icon: fa-brands fa-github
