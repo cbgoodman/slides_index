@@ -25,6 +25,7 @@ website:
   
   open-graph:
     locale: en_US
+    site-name: "Christopher B. Goodman"
 
   google-analytics: "G-LEM7C9DZ9K"
 
