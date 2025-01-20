@@ -2,6 +2,10 @@
 pagetitle: "Presentations"
 author: ""
 listing:
+  - id: presentations_2025
+    contents: presentations_2025.yml
+    sort: "date desc"
+    template: ../html/presentation/listing.ejs
   - id: presentations_2024
     contents: presentations_2024.yml
     sort: "date desc"
@@ -20,6 +24,11 @@ toc-location: right
 toc-title: Year
 date-format: "MMMM D, YYYY"
 ---
+
+## 2025
+
+:::{#presentations_2025}
+:::
 
 ## 2024
 

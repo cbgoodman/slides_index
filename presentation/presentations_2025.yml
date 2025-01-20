@@ -1,0 +1,30 @@
+- title: "Creative Destruction? Examining Special District Dissolution by Service Area"
+  date: 2025-01-11
+  description: >-
+    Presentation at the <a href="https://spsa.net/">Southern Political Science Association Conference</a>, January 2025.
+  location: San Juan, PR
+  links:
+  - name: Companion site, slides, and materials
+    url: 2025-spsa.qmd
+    icon: fa-solid fa-chalkboard-user
+  - name: GitHub repository
+    url: https://github.com/cbgoodman/spsa2025-presentation
+    icon: fa-brands fa-github
+- title: "Demand Shocks & Special Districts: Evidence from Chinese Import Shocks"
+  date: 2025-02-14
+  description: >-
+    Presentation at the <a href="https://martin.uky.edu/">Martin School of Public Policy and Administration</a>, February 2025.
+  location: Lexington, KY
+  links:
+  - name: Companion site, slides, and materials
+    url: 2025-uky.qmd
+    icon: fa-solid fa-chalkboard-user
+- title: "Demand Shocks & Special Districts: Evidence from Chinese Import Shocks"
+  date: 2025-04-17
+  description: >-
+    Presentation at the <a href="https://www.urbanaffairsassociation.org/">Urban Affairs Association Conference</a>, April 2025.
+  location: Vancouver, BC
+  links:
+  - name: Companion site, slides, and materials
+    url: 2025-uaa.qmd
+    icon: fa-solid fa-chalkboard-user

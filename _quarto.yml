@@ -44,20 +44,20 @@ website:
     collapse-below: lg
 
     right: 
-      - text: "{{< iconify simple-icons x size=1.1em title='X' >}}"
-        href: https://twitter.com/cbgoodman
+      - text: "{{< iconify simple-icons bluesky size=1.1em title='Bluesky' >}}"
+        href: https://bsky.app/profile/cbgoodman.co
         rel: me
       - text: "{{< iconify simple-icons mastodon size=1.1em title='Mastodon' >}}"
         href: https://sciences.social/@cbgoodman
-        rel: me
-      - text: "{{< iconify simple-icons bluesky size=1.1em title='Bluesky' >}}"
-        href: https://bsky.app/profile/cbgoodman.bsky.social
         rel: me
       - text: "{{< iconify simple-icons github size=1.1em title='GitHub' >}}"
         href: https://www.github.com/cbgoodman
         rel: me
       - text: "{{< iconify simple-icons linkedin size=1.1em title='LinkedIn' >}}"
         href: https://www.linkedin.com/in/cbgoodman/
+        rel: me
+      - text: "{{< iconify simple-icons rss size=1.1em title='RSS' >}}"
+        href: https://www.cgoodman.com/feed.xml
         rel: me
     left:
       - href: presentation/index.qmd
@@ -71,8 +71,10 @@ format:
       light:
         #- cosmo
         - html/style.scss
-      dark:
-        - html/style-dark.scss
+      #dark:
+      #  - html/style-dark.scss
+    grid: 
+      body-width: 900px
     highlight-style: github
     code-overflow: wrap
     code-block-bg: false
