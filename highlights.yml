@@ -4,9 +4,9 @@ tiles:
     href: /presentation/2025-spsa.qmd
     code: https://github.com/cbgoodman/spsa2025-presentation/
     thumbnail: img/2025-spsa.jpg
-  - title: "Association for Budgeting and Financial Management"
-    subtitle: "Denver, CO"
-    href: /presentation/2023-abfm.qmd
-    code: https://github.com/cbgoodman/abfm-2023-10-28
-    thumbnail: img/2023-abfm.jpg
+  - title: "Urban Affairs Association"
+    subtitle: "Nashville, TN"
+    href: /presentation/2023-uaa.qmd
+    code: https://github.com/cbgoodman/uaa2023-presentation
+    thumbnail: img/2023-uaa.png
     
