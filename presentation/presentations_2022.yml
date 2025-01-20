@@ -10,6 +10,18 @@
   #- name: GitHub repository
   #  url: https://github.com/cbgoodman/abfm-2023-10-28
   #  icon: fa-brands fa-github
+- title: "Are Special Districts Strategic Complements or Strategic Substitutes?"
+  date: 2022-05-27
+  description: >-
+    Presentation at the <a href="https://www.urbanaffairsassociation.org/">Public Management Research Conference</a>, May 2022.
+  location: Phoenix, AZ
+  links:
+  - name: Companion site, slides, and materials
+    url: 2022-pmrc.qmd
+    icon: fa-solid fa-chalkboard-user
+  - name: GitHub repository
+    url: https://github.com/cbgoodman/pmrc22-presentation
+    icon: fa-brands fa-github
 - title: "State Preemption and Affordable Housing"
   date: 2022-04-19
   description: >-
