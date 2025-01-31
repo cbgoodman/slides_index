@@ -45,19 +45,19 @@ website:
     collapse-below: lg
 
     right: 
-      - text: "{{< iconify simple-icons bluesky size=1.1em title='Bluesky' >}}"
+      - text: "{{< iconify simple-icons bluesky size=1em title='Bluesky' >}}"
         href: https://bsky.app/profile/cbgoodman.co
         rel: me
-      - text: "{{< iconify simple-icons mastodon size=1.1em title='Mastodon' >}}"
+      - text: "{{< iconify simple-icons mastodon size=1em title='Mastodon' >}}"
         href: https://sciences.social/@cbgoodman
         rel: me
-      - text: "{{< iconify simple-icons github size=1.1em title='GitHub' >}}"
+      - text: "{{< iconify simple-icons github size=1em title='GitHub' >}}"
         href: https://www.github.com/cbgoodman
         rel: me
-      - text: "{{< iconify simple-icons linkedin size=1.1em title='LinkedIn' >}}"
+      - text: "{{< iconify simple-icons linkedin size=1em title='LinkedIn' >}}"
         href: https://www.linkedin.com/in/cbgoodman/
         rel: me
-      - text: "{{< iconify simple-icons rss size=1.1em title='RSS' >}}"
+      - text: "{{< iconify simple-icons rss size=1em title='RSS' >}}"
         href: https://www.cgoodman.com/feed.xml
         rel: me
     left:
