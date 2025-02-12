@@ -1,12 +1,13 @@
 tiles: 
+  - title: "Martin School of Public Policy & Administration"
+    subtitle: "Lexington, KY"
+    href: /presentation/2023-uky.qmd
+    code: https://github.com/cbgoodman/2025-02-14-martinschool
+    thumbnail: img/2025-uky.png
   - title: "Southern Political Science Association"
     subtitle: "San Juan, PR"
     href: /presentation/2025-spsa.qmd
     code: https://github.com/cbgoodman/spsa2025-presentation/
     thumbnail: img/2025-spsa.jpg
-  - title: "Urban Affairs Association"
-    subtitle: "Nashville, TN"
-    href: /presentation/2023-uaa.qmd
-    code: https://github.com/cbgoodman/uaa2023-presentation
-    thumbnail: img/2023-uaa.png
+
     
