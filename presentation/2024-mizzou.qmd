@@ -6,7 +6,7 @@ date: 2024-04-11
 
 ## Slides
 
-<p class="text-center"><a class="btn btn-info btn-lg" target="_blank" href="https://cbgoodman.github.io/2024-04-11-mizzou/#/title-slide">{{< fa arrow-up-right-from-square >}} &ensp;View all slides in new window</a> <a class="btn btn-info btn-lg" target="_blank" href="https://github.com/cbgoodman/2024-04-11-mizzou/blob/main/goodman-2024-mizzou.pdf" role="button">{{< fa file-pdf >}} &ensp;Download PDF of all slides</a></p>
+<p class="text-center"><a class="btn btn-info btn-lg" target="_blank" href="https://cbgoodman.github.io/2024-04-11-mizzou/#/title-slide">View all slides in new window&nbsp;&nbsp;&nbsp;{{< bi box-arrow-up-right >}}</a> <a class="btn btn-info btn-lg" target="_blank" href="https://github.com/cbgoodman/2024-04-11-mizzou/blob/main/goodman-2024-mizzou.pdf" role="button">Download PDF of all slides&nbsp;&nbsp;&nbsp;{{< bi download >}}</a></p>
 
 
 <div class="ratio ratio-16x9">

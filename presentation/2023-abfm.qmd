@@ -8,7 +8,7 @@ abstract: >-
 
 ## Slides
 
-<p class="text-center"><a class="btn btn-info btn-lg" target="_blank" href="https://cbgoodman.github.io/abfm-2023-10-28/goodman-abfm-2023-presentation.html">{{< fa arrow-up-right-from-square >}} &ensp;View all slides in new window</a> <a class="btn btn-info btn-lg" target="_blank" href="https://github.com/cbgoodman/uaa2023-presentation/blob/main/goodman-uaa-2023.pdf" role="button">{{< fa file-pdf >}} &ensp;Download PDF of all slides</a></p>
+<p class="text-center"><a class="btn btn-info btn-lg" target="_blank" href="https://cbgoodman.github.io/abfm-2023-10-28/goodman-abfm-2023-presentation.html">View all slides in new window&nbsp;&nbsp;&nbsp;{{< bi box-arrow-up-right >}}</a> <a class="btn btn-info btn-lg" target="_blank" href="https://github.com/cbgoodman/uaa2023-presentation/blob/main/goodman-uaa-2023.pdf" role="button">Download PDF of all slides&nbsp;&nbsp;&nbsp;{{< bi download >}}</a></p>
 
 
 <div class="ratio ratio-16x9">

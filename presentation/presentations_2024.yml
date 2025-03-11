@@ -6,7 +6,7 @@
   links:
   - name: Companion site, slides, and materials
     url: 2024-uaa.qmd
-    icon: fa-solid fa-chalkboard-user
+    icon: bi-easel-fill
   #- name: GitHub repository
   #  url: https://github.com/cbgoodman/abfm-2023-10-28
   #  icon: fa-brands fa-github
@@ -18,7 +18,7 @@
   links:
   - name: Companion site, slides, and materials
     url: 2024-mizzou.qmd
-    icon: fa-solid fa-chalkboard-user
+    icon: bi-easel-fill
   - name: GitHub repository
     url: https://github.com/cbgoodman/2024-04-11-mizzou
-    icon: fa-brands fa-github
+    icon: bi-github

@@ -6,10 +6,10 @@
   links:
   - name: Companion site, slides, and materials
     url: 2023-abfm.qmd
-    icon: fa-solid fa-chalkboard-user
+    icon: bi-easel-fill
   - name: GitHub repository
     url: https://github.com/cbgoodman/abfm-2023-10-28
-    icon: fa-brands fa-github
+    icon: bi-github
 - title: "Overlapping Jurisdictions & Residential Segregation by Race"
   date: 2023-04-28
   description: >-
@@ -18,10 +18,10 @@
   links:
   - name: Companion site, slides, and materials
     url: 2023-uaa.qmd
-    icon: fa-solid fa-chalkboard-user
+    icon: bi-easel-fill
   - name: GitHub repository
     url: https://github.com/cbgoodman/uaa2023-presentation
-    icon: fa-brands fa-github
+    icon: bi-github
 - title: "Revisiting Jurisdictional Overlap, Tax and Expenditure Limitations, and the Fiscal Commons"
   date: 2023-11-30
   description: >-
@@ -30,7 +30,7 @@
   links:
   - name: Companion site, slides, and materials
     url: 2023-oneill.qmd
-    icon: fa-solid fa-chalkboard-user
+    icon: bi-easel-fill
   #- name: GitHub repository
   #  url: https://github.com/cbgoodman/uaa2023-presentation
   #  icon: fa-brands fa-github

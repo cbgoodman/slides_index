@@ -6,10 +6,10 @@
   links:
   - name: Companion site, slides, and materials
     url: 2022-abfm.qmd
-    icon: fa-solid fa-chalkboard-user
+    icon: bi-easel-fill
   #- name: GitHub repository
   #  url: https://github.com/cbgoodman/abfm-2023-10-28
-  #  icon: fa-brands fa-github
+  #  icon: bi-github
 - title: "Are Special Districts Strategic Complements or Strategic Substitutes?"
   date: 2022-05-27
   description: >-
@@ -18,10 +18,10 @@
   links:
   - name: Companion site, slides, and materials
     url: 2022-pmrc.qmd
-    icon: fa-solid fa-chalkboard-user
+    icon: bi-easel-fill
   - name: GitHub repository
     url: https://github.com/cbgoodman/pmrc22-presentation
-    icon: fa-brands fa-github
+    icon: bi-github
 - title: "State Preemption and Affordable Housing"
   date: 2022-04-19
   description: >-
@@ -30,10 +30,10 @@
   links:
   - name: Companion site, slides, and materials
     url: 2022-uaa.qmd
-    icon: fa-solid fa-chalkboard-user
+    icon: bi-easel-fill
   #- name: GitHub repository
   #  url: https://github.com/cbgoodman/abfm-2023-10-28
-  #  icon: fa-brands fa-github
+  #  icon: bi-github
 - title: "Creative Destruction? Examining Special District Dissolution by Service Area"
   date: 2022-01-15
   description: >-
@@ -42,7 +42,7 @@
   links:
   - name: Companion site, slides, and materials
     url: 2022-spsa.qmd
-    icon: fa-solid fa-chalkboard-user
+    icon: bi-easel-fill
   #- name: GitHub repository
   #  url: https://github.com/cbgoodman/abfm-2023-10-28
-  #  icon: fa-brands fa-github
+  #  icon: bi-github

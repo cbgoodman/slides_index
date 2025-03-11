@@ -143,6 +143,8 @@ a.badge.badge-red { color: $white;}
 .btn {
     font-family: $font-family-sans-serif;
     text-align: center;
+    margin-right: ($spacer * .25);
+    margin-left: ($spacer * .25);
 }
 
 // Presentation listing

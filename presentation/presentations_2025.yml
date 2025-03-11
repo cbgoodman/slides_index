@@ -6,10 +6,10 @@
   links:
   - name: Companion site, slides, and materials
     url: 2025-spsa.qmd
-    icon: fa-solid fa-chalkboard-user
+    icon: bi-easel-fill
   - name: GitHub repository
     url: https://github.com/cbgoodman/spsa2025-presentation
-    icon: fa-brands fa-github
+    icon: bi-github
 - title: "Demand Shocks & Special Districts: Evidence from Chinese Import Shocks"
   date: 2025-02-14
   description: >-
@@ -18,7 +18,7 @@
   links:
   - name: Companion site, slides, and materials
     url: 2025-uky.qmd
-    icon: fa-solid fa-chalkboard-user
+    icon: bi-easel-fill
 - title: "Demand Shocks & Special Districts: Evidence from Chinese Import Shocks"
   date: 2025-04-17
   description: >-
@@ -27,4 +27,4 @@
   links:
   - name: Companion site, slides, and materials
     url: 2025-uaa.qmd
-    icon: fa-solid fa-chalkboard-user
+    icon: bi-easel-fill
