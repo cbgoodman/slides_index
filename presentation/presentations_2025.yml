@@ -19,6 +19,9 @@
   - name: Companion site, slides, and materials
     url: 2025-uky.qmd
     icon: bi-easel-fill
+  - name: GitHub repository
+    url: https://github.com/cbgoodman/2025-02-14-martinschool/
+    icon: bi-github
 - title: "Demand Shocks & Special Districts: Evidence from Chinese Import Shocks"
   date: 2025-04-17
   description: >-
