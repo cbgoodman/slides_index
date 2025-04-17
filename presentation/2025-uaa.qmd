@@ -1,7 +1,16 @@
 ---
 title: "Demand Shocks & Special Districts: Evidence from Chinese Import Shocks"
 subtitle: "Urban Affairs Association Conference"
-date: 2025-04-17
+date: 2025-04-18
 abstract: >-
   One of the primary theoretical benefits of specialized governance is rapid response to changes in demand for public services. If demand increases quickly, special districts can be quickly formed to respond to such new demand. Theorectically, the reverse is also true, quickly softening demand should lead to district dissolutions. A second and related issue is the influence of boundary change entrepreneurs on the formation and dissolution of special districts. These entrepreneurs, typically developers or manufacturers, advocate for the creation (and against the dissolution) of districts that financially or otherwise benefit them. The identifcation of either is difficult leading to conflicting or confusing results in the literature. This research uses China's 2001 entry into the World Trade Organization (WTO) as a natural experiment to identify the influence of demand shocks and the relatively importance of boundary change entrepreneurs on the formation and dissolution of special districts. If these two factor are important in this process, those local areas more exposed to competition from Chinese manufactured goods should see greater changes in their special district landscape.
 ---
+
+## Slides
+
+<p class="text-center"><a class="btn btn-info btn-lg" target="_blank" href="https://cbgoodman.github.io/2025-04-18-uaa/goodman-2025-uaa.html">View all slides in new window&nbsp;&nbsp;&nbsp;{{< bi box-arrow-up-right >}}</a> <a class="btn btn-info btn-lg" target="_blank" href="https://github.com/cbgoodman/2025-04-18-uaa/blob/main/goodman-2025-uaa.pdf" role="button">Download PDF of all slides&nbsp;&nbsp;&nbsp;{{< bi download >}}</a></p>
+
+
+<div class="ratio ratio-16x9">
+<iframe class="slide-deck" src="https://cbgoodman.github.io/2025-04-18-uaa/goodman-2025-uaa.html"></iframe>
+</div>

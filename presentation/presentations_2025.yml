@@ -31,3 +31,6 @@
   - name: Companion site, slides, and materials
     url: 2025-uaa.qmd
     icon: bi-easel-fill
+  - name: GitHub repository
+    url: https://github.com/cbgoodman/2025-04-18-uaa/
+    icon: bi-github
